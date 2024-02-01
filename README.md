@@ -5,4 +5,4 @@
 
 ## Puedes encontrarme en:
 
- - [LinkedIn](www.linkedin.com/in/álvaro-del-burgo-pérez)
+ - [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-del-burgo-p%C3%A9rez/)
