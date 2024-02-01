@@ -1,5 +1,6 @@
-### About me 👋
+### ¡Hola! Soy Álvaro del Burgo Pérez👋
 
+Soy Administrador de Sistemas Informáticos en Red y estudiante del grado de Ingeniería Informática en la UCJC. Apasionado por las redes, el hardware, diseñar webs, la programación, etc.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
