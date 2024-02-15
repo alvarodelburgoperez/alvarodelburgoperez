@@ -11,29 +11,18 @@
 
 ## Mis proyectos
 
-<div display="flex" justify-content="center" align-items="center" flex-wrap="wrap" margin="20px auto" width="80%";> 
- <div padding="10px" text-align="center">
-  <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
-   <img width='20%' src='images/meditacion.png' alt='sala de meditación' align=center />
-  </a>
-   <h3>Título de la imagen 1</h3>
- </div>
- 
- <div padding="10px" text-align="center">
-  <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
-   <img width='20%' src='images/analizador.png' alt='Analizador Léxico' align=center/>
-  </a>
-   <h3>Título de la imagen 1</h3>
- </div>
- 
- <div padding="10px" text-align="center">
-  <a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
-   <img width='20%' src='images/robot.png' alt='Bot Telegram' align=center/>
-  </a>
-   <h3>Título de la imagen 1</h3>
- </div>
-</div>
 
+  <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
+   <img width='20%' src='images/meditacion.png' alt='sala de meditación' align="center" />
+  </a>
+
+  <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
+   <img width='20%' src='images/analizador.png' alt='Analizador Léxico' align="center" />
+  </a>
+
+  <a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
+   <img width='20%' src='images/robot.png' alt='Bot Telegram' align="center" />
+  </a>
 
 
 ## Estadisticas
