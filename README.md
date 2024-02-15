@@ -13,16 +13,16 @@
 
 <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
   <img width='30%' src='images/meditacion.png' alt='sala de meditación' />
- <p>SALA DE MEDITACIÓN</p>
 </a>
+
 
 <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
   <img width='30%' src='images/analizador.png' alt='Analizador Léxico' />
- <p>ANALIZADOR LÉXICO</p>
+
 </a>
 <a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
   <img width='30%' src='images/robot.png' alt='Bot Telegram' />
- <p>BOT TELEGRAM</p>
+ 
 </a>
 
 
