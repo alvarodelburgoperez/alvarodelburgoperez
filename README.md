@@ -15,6 +15,18 @@
 - [Analizador Léxico-Sintáctico](https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico)
 - [Bot de Telegram](https://github.com/alvarodelburgoperez/Bot-Telegram)
 
+<a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
+  <img width='30%' src='images/meditacion.png' alt='sala de meditación' />
+</a>
+<a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
+  <img width='30%' src='images/analizador.png' alt='Analizador Léxico' />
+</a>
+<a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
+  <img width='30%' src='images/robot.png' alt='Bot Telegram' />
+</a>
+
+
+
 ## Estadisticas
 
 <div align="center">
