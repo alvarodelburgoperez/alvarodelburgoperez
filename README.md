@@ -15,14 +15,12 @@
   <img width='30%' src='images/meditacion.png' alt='sala de meditación' />
 </a>
 
-
 <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
   <img width='30%' src='images/analizador.png' alt='Analizador Léxico' />
-
 </a>
+
 <a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
   <img width='30%' src='images/robot.png' alt='Bot Telegram' />
- 
 </a>
 
 
