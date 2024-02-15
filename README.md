@@ -16,8 +16,9 @@
 - [Bot de Telegram](https://github.com/alvarodelburgoperez/Bot-Telegram)
 
 <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
-  <img width='30%' src='images/meditacion.png' alt='sala de meditación' />
+  <img width='30%' src='meditacion.png' alt='sala de meditación' />
 </a>
+
 <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
   <img width='30%' src='images/analizador.png' alt='Analizador Léxico' />
 </a>
