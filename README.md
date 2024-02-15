@@ -11,17 +11,28 @@
 
 ## Mis proyectos
 
-<a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
-  <img width='30%' src='images/meditacion.png' alt='sala de meditación' />
-</a>
-
-<a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
-  <img width='30%' src='images/analizador.png' alt='Analizador Léxico' />
-</a>
-
-<a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
-  <img width='30%' src='images/robot.png' alt='Bot Telegram' />
-</a>
+<div style=" display= flex, justify-content= center, align-items= center; flex-wrap= wrap; margin= 20px auto; width= 80%;"> 
+ <div style=" padding= 10px, text-align= center;">
+  <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
+   <img width='20%' src='images/meditacion.png' alt='sala de meditación' align=center />
+  </a>
+   <h3>Título de la imagen 1</h3>
+ </div>
+ 
+ <div style=" padding= 10px, text-align= center;">
+  <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
+   <img width='20%' src='images/analizador.png' alt='Analizador Léxico' align=center/>
+  </a>
+   <h3>Título de la imagen 1</h3>
+ </div>
+ 
+ <div style=" padding= 10px, text-align= center;">
+  <a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
+   <img width='20%' src='images/robot.png' alt='Bot Telegram' align=center/>
+  </a>
+   <h3>Título de la imagen 1</h3>
+ </div>
+</div>
 
 
 
@@ -44,6 +55,7 @@
 
 ## 🔗 Donde encontrarme
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-del-burgo-p%C3%A9rez/)
+
 
 
 
