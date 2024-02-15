@@ -1,6 +1,5 @@
 ## 🚀 About Me
 
-## About Me
 <br clear="both">
 <p align="center">Soy Álvaro del Burgo Pérez.
 <br clear="both">
