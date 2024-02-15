@@ -11,22 +11,22 @@
 
 ## Mis proyectos
 
-<div style=" display= flex; justify-content= center; align-items= center; flex-wrap= wrap; margin= 20px auto; width= 80%;"> 
- <div style=" display= flex; padding= 10px; text-align= center;">
+<div display="flex" justify-content="center" align-items="center" flex-wrap="wrap" margin="20px auto" width="80%";> 
+ <div padding="10px" text-align="center">
   <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
    <img width='20%' src='images/meditacion.png' alt='sala de meditación' align=center />
   </a>
    <h3>Título de la imagen 1</h3>
  </div>
  
- <div style=" padding= 10px, text-align= center;">
+ <div padding="10px" text-align="center">
   <a href='https://github.com/alvarodelburgoperez/Analizador-Lexico-Sintactico' target='_blank'>
    <img width='20%' src='images/analizador.png' alt='Analizador Léxico' align=center/>
   </a>
    <h3>Título de la imagen 1</h3>
  </div>
  
- <div style=" padding= 10px, text-align= center;">
+ <div padding="10px" text-align="center">
   <a href='https://github.com/alvarodelburgoperez/Bot-Telegram' target='_blank'>
    <img width='20%' src='images/robot.png' alt='Bot Telegram' align=center/>
   </a>
