@@ -11,8 +11,8 @@
 
 ## Mis proyectos
 
-<div style=" display= flex, justify-content= center, align-items= center; flex-wrap= wrap; margin= 20px auto; width= 80%;"> 
- <div style=" padding= 10px, text-align= center;">
+<div style=" display= flex; justify-content= center; align-items= center; flex-wrap= wrap; margin= 20px auto; width= 80%;"> 
+ <div style=" display= flex; padding= 10px; text-align= center;">
   <a href='https://github.com/alvarodelburgoperez/SALA-MEDITACION' target='_blank'>
    <img width='20%' src='images/meditacion.png' alt='sala de meditación' align=center />
   </a>
