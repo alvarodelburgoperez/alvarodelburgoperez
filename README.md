@@ -24,6 +24,12 @@
    <img width='20%' src='images/robot.png' alt='Bot Telegram' align="center" />
   </a>
 
+  <a href='https://github.com/alvarodelburgoperez/Proxy_Inverso' target='_blank'>
+   <img width='20%' src='images/proxy.png' alt='Bot Telegram' align="center" />
+  </a>
+
+  
+
 
 ## Estadisticas
 
