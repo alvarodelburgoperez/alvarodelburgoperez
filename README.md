@@ -25,8 +25,14 @@
   </a>
 
   <a href='https://github.com/alvarodelburgoperez/Proxy_Inverso' target='_blank'>
-   <img width='20%' src='images/proxy.png' alt='Bot Telegram' align="center" />
+   <img width='20%' src='images/proxy.png' alt='Proxy Inverso (Nginx)' align="center" />
   </a>
+
+  <a href='https://github.com/alvarodelburgoperez/Balanceador_Carga' target='_blank'>
+   <img width='20%' src='images/balanceador.png' alt='Balanceador de Carga (Nginx)' align="center" />
+  </a>
+
+  
 
   
 
