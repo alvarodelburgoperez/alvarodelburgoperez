@@ -45,7 +45,7 @@
   
 
 
-## Estadisticas
+## Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvarodelburgoperez&theme=vue-dark&show_icons=true&hide_border=true&count_private=tru" height="155" alt="stats graph"  />
