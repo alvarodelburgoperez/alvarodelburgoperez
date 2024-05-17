@@ -40,6 +40,10 @@
    <img width='20%' src='images/mongo.png' alt='Mongo' align="center" />
   </a>
 
+  <a href='https://github.com/alvarodelburgoperez/Ansible' target='_blank'>
+   <img width='20%' src='images/ansible.png' alt='Ansible' align="center" />
+  </a>
+
   
 
   
