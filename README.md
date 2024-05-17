@@ -32,6 +32,14 @@
    <img width='20%' src='images/balanceador.png' alt='Balanceador de Carga (Nginx)' align="center" />
   </a>
 
+  <a href='https://github.com/alvarodelburgoperez/Airflow' target='_blank'>
+   <img width='20%' src='images/airflow.png' alt='Airflow' align="center" />
+  </a>
+
+  <a href='https://github.com/alvarodelburgoperez/Mongo' target='_blank'>
+   <img width='20%' src='images/mongo.png' alt='Mongo' align="center" />
+  </a>
+
   
 
   
